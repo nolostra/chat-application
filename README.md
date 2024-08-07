@@ -6,14 +6,10 @@ This is a Next.js project bootstrapped with create-next-app. This project implem
 To start the development server, run:
 
 bash
-Copy code
-npm run dev
-# or
+
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+
 Open http://localhost:3000 in your browser to view the chat application.
 
 🌟 Features
