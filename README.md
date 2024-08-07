@@ -11,9 +11,11 @@ Open http://localhost:3000 in your browser to view the chat application.
 
 🌟 Features
 Real-Time Messaging: Send and receive messages instantly with Socket.io, ensuring seamless communication.
+
 ![image](https://github.com/user-attachments/assets/6bff4ca7-abea-4764-9f82-2fab211b9bcc)
 
 Username Management: Users must set a username before they can participate in the chat, adding a personal touch to interactions.
+
 ![image](https://github.com/user-attachments/assets/f35f038e-7320-47d6-93e8-d1f132a57758)
 
 Message Alignment: Messages are displayed based on the sender. Current user messages are aligned to the right, while messages from others are aligned to the left for clear differentiation.
